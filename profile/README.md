@@ -29,3 +29,4 @@ Whether you want to test ZITADEL locally, deploy it to Kubernetes or even use a 
 
 - [ZITADEL Roadmap](https://zitadel.ch/roadmap) if you are interested on what we are currently working.
 - [ZITADEL Chat](https://zitadel.ch/chat) come and interact with us in our discord chat. All questions allowed!
+- [ZITADEL Blog](https://zitadel.ch/blog) is the place where we actively communicate news and other content around ZITADEL and its capabilities.
