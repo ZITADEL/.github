@@ -2,7 +2,10 @@
   <img src="../img/zitadel-header.png" alt="ZITADEL Logo" width="100%" />
 </p>
 
-ZITADEL is the modern open* alternative for Auth0, Firebase Auth, AWS Cognito as well as Keycloak **built for the container and serverless era**. We provide a wide range of out of the box features like **secure login, self-service, OpenID Connect, OAuth2.x, SAML2, branding, Passwordless with FIDO2, OTP, U2F, unlimited audit trail** to improve the life of developers. Especially noteworthy is that ZITADEL supports **not only B2C and B2E scenarios but also B2B**. This is especially useful for builders who build B2B Solutions as ZITADEL can handle **all the delegated user and access management**.
+ZITADEL is the modern open* alternative for Auth0, Firebase Auth, AWS Cognito as well as Keycloak **built for the container and serverless era**. 
+
+We provide a wide range of out of the box features like **secure login, self-service, OpenID Connect, OAuth2.x, SAML2, branding, Passwordless with FIDO2, OTP, U2F, unlimited audit trail** to improve the life of developers. Especially noteworthy is that ZITADEL supports **not only B2C and B2E scenarios but also B2B**. This is especially useful for builders who build B2B Solutions as ZITADEL can handle **all the delegated user and access management**.
+
 With ZITADEL you rely on a **battle tested, hardened and extensible turnkey solution** to solve all of your authentication and authorization needs. The unique way ZITADEL stores its data gives our users an unlimited audit trail which provides a peace of mind for even the harshest audit and analytics requirements.
 
 **[📦 ZITADEL](https://github.com/zitadel/zitadel) [🏡 Website](https://zitadel.ch) [💬 Chat](https://zitadel.ch/chat) [📋 Docs](https://docs.zitadel.ch/) [🧑‍💻 Blog](https://zitadel.ch/blog) [📞 Contact](https://zitadel.ch/contact/)**
