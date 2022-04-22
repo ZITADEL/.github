@@ -16,6 +16,9 @@ The best way to get started with ZITADEL is to use our public cloud service whic
 
 If you are ready to scale your projects you can harness the full potential of our pay-as-you-go plan and profit from things like a custom domain, sla, support and the ability to select a region or country where we store your data.
 
+- [Start Building Today](TBD) TODO to GUIDE
+- [Startups](TBD) TODO link to startup program
+
 ## ZITADEL Self-Hosting
 
 Whether you want to test ZITADEL locally, deploy it to Kubernetes or even use a Serverless offering like Google Cloud Run, we got you covered!
