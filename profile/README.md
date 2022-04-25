@@ -15,9 +15,9 @@ With ZITADEL you rely on a **battle tested, hardened and extensible turnkey solu
 
 ## ZITADEL Cloud
 
-The best way to get started with ZITADEL is to use our public cloud service which provides a gracious [free tier](https://zitadel.ch/pricing/v2) to anybody that wants to use ZITADEL even without a credit card.
+The best way to get started with ZITADEL, is to use our public cloud service which provides a gracious [free tier](https://zitadel.ch/pricing/v2) to anybody, even without a credit card.
 
-If you are ready to scale your projects you can harness the full potential of our pay-as-you-go plan and profit from things like a custom domain, sla, support and the ability to select a region or country where we store your data.
+If you are ready to scale your projects, you can harness the full potential of our pay-as-you-go plan and profit from features like a custom domain, sla, support and the ability to select a region or country where we store your data.
 
 - [Start Building Today](TBD) TODO to GUIDE
 - [Startups](TBD) TODO link to startup program
@@ -33,5 +33,5 @@ Whether you want to test ZITADEL locally, deploy it to Kubernetes or even use a 
 
 ## ZITADEL Open Source Projects
 
-- [oidc-go](https://github.com/zitadel/oidc-go) is our open source OpenID Connect Go library powering also ZITADEL. To show our ongoing commitment to open source and Go we were the first to certify a Go library with the OpenID Foundation. This library is able to act as client (rp) and server (op) likewise.
+- [oidc](https://github.com/zitadel/oidc) is our open source OpenID Connect Go library powering ZITADEL. To show our ongoing commitment to open source and Go we were the first to certify a Go library with the OpenID Foundation. This library is able to act as client (rp) and server (op) likewise.
 - [zitadel-go](https://github.com/zitadel/zitadel-go) helps builders who use Go with an easy to use SDK to access ZITADEL's APIs.
