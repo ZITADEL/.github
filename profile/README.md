@@ -19,7 +19,7 @@ The best way to get started with ZITADEL, is to use our public cloud service whi
 
 If you are ready to scale your projects, you can harness the full potential of our pay-as-you-go plan and profit from features like a custom domain, sla, support and the ability to select a region or country where we store your data.
 
-- [Start Building Today](https://docs.zitadel.ch/docs/quickstarts/introduction) TODO to GUIDE
+- [Start Building Today](https://docs.zitadel.ch/docs/quickstarts/introduction) Read our quickstarts to get you started.
 - [Startups](https://zitadel.ch/pricing/v2) Startups can apply to our startup program to recvieve a 50% discount.
 
 ## ZITADEL Self-Hosting
