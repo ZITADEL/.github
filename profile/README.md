@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://zitadel.ch#gh-dark-mode-only"><img src="../img/zitadel-dark.png" alt="Zitadel Header" width="400" height=auto /></a>
-  <a href="https://zitadel.ch#gh-light-mode-only"><img src="../img/zitadel-light.png" alt="Zitadel Header" width="400" height=auto /></a> /></a>
+  <a href="https://zitadel.ch#gh-dark-mode-only"><img src="../img/zitadel-dark.png" alt="Zitadel Header" width="500" height=auto /></a>
+  <a href="https://zitadel.ch#gh-light-mode-only"><img src="../img/zitadel-light.png" alt="Zitadel Header" width="500" height=auto /></a>
 </p>
 
 ##
