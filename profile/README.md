@@ -1,7 +1,9 @@
 <p align="center">
-  <a href="https://zitadel.ch#gh-dark-mode-only"><img src="../img/zitadel-dark.png" alt="Zitadel Header" /></a>
-  <a href="https://zitadel.ch#gh-light-mode-only"><img src="../img/zitadel-light.png" alt="Zitadel Header" /></a>
+  <a href="https://zitadel.ch#gh-dark-mode-only"><img src="../img/zitadel-dark.png" alt="Zitadel Header" width="400" height=auto /></a>
+  <a href="https://zitadel.ch#gh-light-mode-only"><img src="../img/zitadel-light.png" alt="Zitadel Header" width="400" height=auto /></a> /></a>
 </p>
+
+##
 
 ZITADEL is the modern open* alternative for Auth0, Firebase Auth, AWS Cognito as well as Keycloak **built for the container and serverless era**. 
 
