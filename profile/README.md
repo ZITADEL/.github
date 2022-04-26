@@ -31,4 +31,5 @@ Whether you want to test ZITADEL locally, deploy it to Kubernetes or even use a 
 ## ZITADEL Open Source Projects
 
 - [oidc](https://github.com/zitadel/oidc) is our open source OpenID Connect Go library powering ZITADEL. To show our ongoing commitment to open source and Go we were the first to certify a Go library with the OpenID Foundation. This library is able to act as client (rp) and server (op) likewise.
+- [saml](https://github.com/zitadel/saml) is the open source SAML 2.0 Go library used by ZITADEL. 
 - [zitadel-go](https://github.com/zitadel/zitadel-go) helps builders who use Go with an easy to use SDK to access ZITADEL's APIs.
