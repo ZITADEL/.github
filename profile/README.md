@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://zitadel.ch#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/zitadel/.github/main/img/zitadel-light.png" alt="Zitadel Header" width="500" height=auto /></a>
-  <a href="https://zitadel.ch#gh-light-mode-only"><img src="https://raw.githubusercontent.com/zitadel/.github/main/img/zitadel-dark.png" alt="Zitadel Header" width="500" height=auto /></a>
+  <a href="https://zitadel.com#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/zitadel/.github/main/img/zitadel-light.png" alt="Zitadel Header" width="500" height=auto /></a>
+  <a href="https://zitadel.com#gh-light-mode-only"><img src="https://raw.githubusercontent.com/zitadel/.github/main/img/zitadel-dark.png" alt="Zitadel Header" width="500" height=auto /></a>
 </p>
 
 ##
@@ -11,22 +11,22 @@ We provide a wide range of out of the box features like **secure login, self-ser
 
 With ZITADEL you rely on a **battle tested, hardened and extensible turnkey solution** to solve all of your authentication and authorization needs. With the unique way of how ZITADEL stores data it gives you an unlimited audit trail which provides a peace of mind for even the harshest audit and analytics requirements.
 
-**[📦 ZITADEL](https://github.com/zitadel/zitadel) [🏡 Website](https://zitadel.ch) [💬 Chat](https://zitadel.ch/chat) [📋 Docs](https://docs.zitadel.ch/) [🧑‍💻 Blog](https://zitadel.ch/blog) [📞 Contact](https://zitadel.ch/contact/)**
+**[📦 ZITADEL](https://github.com/zitadel/zitadel) [🏡 Website](https://zitadel.com) [💬 Chat](https://zitadel.com/chat) [📋 Docs](https://docs.zitadel.ch/) [🧑‍💻 Blog](https://zitadel.com/blog) [📞 Contact](https://zitadel.com/contact/)**
 
 ## ZITADEL Cloud
 
-The best way to get started with ZITADEL, is to use our public cloud service which provides a gracious [free tier](https://zitadel.ch/pricing/v2) to anybody, even without a credit card.
+The best way to get started with ZITADEL, is to use our public cloud service which provides a gracious [free tier](https://zitadel.com/pricing/v2) to anybody, even without a credit card.
 
 If you are ready to scale your projects, you can harness the full potential of our pay-as-you-go plan and profit from features like a custom domain, sla, support and the ability to select a region or country where we store your data.
 
 - [Start Building Today](https://docs.zitadel.ch/docs/quickstarts/introduction) Read our quickstarts to get you started.
-- [Startups](https://zitadel.ch/pricing/v2) Startups can apply to our startup program to recvieve a 50% discount.
+- [Startups](https://zitadel.com/pricing/v2) Startups can apply to our startup program to recvieve a 50% discount.
 
 ## ZITADEL Self-Hosting
 
 Whether you want to test ZITADEL locally, deploy it to Kubernetes or even use a Serverless offering like Google Cloud Run, we got you covered!
  
-> If you are in need for a self-hosted ZITADEL instance and want to have support [please reach out to us](https://zitadel.ch/contact)!
+> If you are in need for a self-hosted ZITADEL instance and want to have support [please reach out to us](https://zitadel.com/contact)!
 
 ## ZITADEL Open Source Projects
 

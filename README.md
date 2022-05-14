@@ -1,3 +1,3 @@
 # ZITADEL Organisation Readme
 
-Checkout https://zitadel.ch for more information.
+Checkout https://zitadel.com for more information.
