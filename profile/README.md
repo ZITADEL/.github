@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://github.com/zitadel/zitadel/blob/ac66a54df90bbfe1933a65ba5d4a0cc26cf9550c/docs/static/logos/zitadel-logo-dark@2x.png#gh-light-mode-only" alt="Zitadel Logo" max-height="200px" width="auto" />
-    <img src="https://github.com/zitadel/zitadel/blob/ac66a54df90bbfe1933a65ba5d4a0cc26cf9550c/docs/static/logos/zitadel-logo-light@2x.png#gh-dark-mode-only" alt="Zitadel Logo" max-height="200px" width="auto" />
+    <img src="https://user-images.githubusercontent.com/9879976/200941394-7aeac388-1f15-4342-8a5c-e29a3d81a0f6.svg#gh-light-mode-only" alt="Zitadel Logo" max-height="200px" width="auto" />
+    <img src="https://user-images.githubusercontent.com/9879976/200941561-a2b0411c-5fc2-47ff-a0f1-597666a7c4f5.svg#gh-dark-mode-only" alt="Zitadel Logo" max-height="200px" width="auto" />
 </p>
 
 ZITADEL is the best open source alternative for Auth0 and Keycloak.
