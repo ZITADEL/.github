@@ -1,10 +1,7 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/9879976/200941394-7aeac388-1f15-4342-8a5c-e29a3d81a0f6.svg#gh-light-mode-only" alt="Zitadel Logo" max-height="200px" width="auto" />
-    <img src="https://user-images.githubusercontent.com/9879976/200941864-a846e70c-2cae-455d-a2de-4b8236bb43ab.svg#gh-dark-mode-only" alt="Zitadel Logo" max-height="200px" width="auto" />
+    <img src="https://user-images.githubusercontent.com/9879976/200943036-2fea2cba-454f-447a-a203-bc318c93fbdf.svg#gh-light-mode-only" alt="Zitadel Logo" max-height="200px" width="auto" />
+    <img src="https://user-images.githubusercontent.com/9879976/200943022-883194a9-1d7f-4507-a248-bf163317c8ba.svg#gh-dark-mode-only" alt="Zitadel Logo" max-height="200px" width="auto" />
 </p>
-
-
-![zitadel-logo-light](https://user-images.githubusercontent.com/9879976/200941864-a846e70c-2cae-455d-a2de-4b8236bb43ab.svg)
 
 ZITADEL is the best open source alternative for Auth0 and Keycloak.
 It provides all the needed security features without a paywall,
