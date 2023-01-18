@@ -12,7 +12,7 @@ is built for the serverless era and brings along a unique multi tenancy concept 
 - [zitadel](https://github.com/zitadel/zitadel) the turnkey solution for your consumer and business customer identity needs
 - [oidc](https://github.com/zitadel/oidc) is our open source and certified OpenID Connect Go library powering ZITADEL
 - [saml](https://github.com/zitadel/saml) the open source SAML 2.0 Go library used by ZITADEL
-- [zitadel-examples](https://github.com/zitadel/zitadel-examples) you find here multiple examples for different tools, languages and frameworks
+- [examples](https://github.com/search?q=topic%3Aexamples+org%3Azitadel) explore our client example applications in various tools, languages and frameworks.
 - [zitadel-go](https://github.com/zitadel/zitadel-go) our go SDK provides you a convenient way to use ZITADEL for Authentication and Authorization as well as access to our API
 - [terraform-provider-zitadel](https://github.com/zitadel/terraform-provider-zitadel) is our official terraform provider to manage ZITADEL's resources
 - [zitadel-charts](https://github.com/zitadel/zitadel-charts) provides our users with a helm chart for an easy deployment on Kubernetes
@@ -23,7 +23,7 @@ is built for the serverless era and brings along a unique multi tenancy concept 
 
 - [🏡 Visit our Website](https://zitadel.com)
 - [💬 Join our Discord Server](https://zitadel.com/chat)
-- [📋 Read our Docs](https://docs.zitadel.com/)
+- [📋 Read our Docs](https://zitadel.com/docs)
 - [🧑‍💻 Check our Blog](https://zitadel.com/blog)
 - [📞 Get in touch with us](https://zitadel.com/contact/)
 - [📅 Check our Roadmap](https://zitadel.com/roadmap/)
