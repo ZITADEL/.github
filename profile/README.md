@@ -34,3 +34,7 @@ Behind ZITADEL is an aspiring team of talented people who have a combined identi
 Prior of starting ZITADEL the founders worked for a public sector company,
 where they built and operated a complex service provider grade identity system.
 This helped the company to provide IT services to government entities, first responders and citizens alike.
+
+## Security
+
+See the policy [here](https://github.com/zitadel/zitadel/blob/main/SECURITY.md)
