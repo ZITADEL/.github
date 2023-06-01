@@ -10,6 +10,7 @@ is built for the serverless era and brings along a unique multi tenancy concept 
 ## ZITADEL Repositories
 
 - [zitadel](https://github.com/zitadel/zitadel) the turnkey solution for your consumer and business customer identity needs
+- [typescript](https://github.com/zitadel/typescript) contains all TypeScript and JavaScript packages and applications you need to create your own ZITADEL Login UI.
 - [oidc](https://github.com/zitadel/oidc) is our open source and certified OpenID Connect Go library powering ZITADEL
 - [saml](https://github.com/zitadel/saml) the open source SAML 2.0 Go library used by ZITADEL
 - [examples](https://github.com/search?q=topic%3Aexamples+org%3Azitadel) explore our client example applications in various tools, languages and frameworks.
