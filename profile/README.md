@@ -14,7 +14,7 @@ is built for the serverless era and brings along a unique multi tenancy concept 
 - [oidc](https://github.com/zitadel/oidc) is our open source and certified OpenID Connect Go library powering ZITADEL
 - [saml](https://github.com/zitadel/saml) the open source SAML 2.0 Go library used by ZITADEL
 - [passwap](https://github.com/zitadel/passwap) provides a unified implementation between different password hashing algorithms. It allows for easy swapping between algorithms, using the same API for all of them.
-- [examples](https://github.com/search?q=topic%3Aexamples+org%3Azitadel) explore our client example applications in various tools, languages and frameworks.
+- [examples](https://github.com/search?q=topic%3Aexamples+org%3Azitadel&type=repositories&s=updated&o=desc) explore our client example applications in various tools, languages and frameworks.
 - [actions](https://github.com/zitadel/actions) contains different javascript snippets that can be used as Actions in ZITADEL to run custom code based on events
 - [zitadel-go](https://github.com/zitadel/zitadel-go) our go SDK provides you a convenient way to use ZITADEL for Authentication and Authorization as well as access to our API
 - [terraform-provider-zitadel](https://github.com/zitadel/terraform-provider-zitadel) is our official terraform provider to manage ZITADEL's resources
