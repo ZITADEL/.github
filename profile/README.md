@@ -3,9 +3,9 @@
     <img src="https://user-images.githubusercontent.com/9879976/200943036-2fea2cba-454f-447a-a203-bc318c93fbdf.svg#gh-dark-mode-only" alt="Zitadel Logo" width="300px" height="auto" />
 </p>
 
-ZITADEL is the best open source alternative for Auth0 and Keycloak.
-It provides all the needed security features without a paywall,
-is built for the serverless era and brings along a unique multi tenancy concept with self-service for your b2b needs.
+ZITADEL - Identity infrastructure, simplified for you.
+
+An open souce identity infrastructure, built for the serverless era, acting as drop-in multi-tenancy auth solution with self-service for you b2b needs.
 
 ## ZITADEL Repositories
 
