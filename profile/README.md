@@ -5,7 +5,7 @@
 
 ZITADEL - Identity infrastructure, simplified for you.
 
-An open souce identity infrastructure, built for the serverless era, acting as drop-in multi-tenancy auth solution with self-service for you b2b needs.
+The open source identity infrastructure for developers, acts as drop-in multi-tenancy auth solution with self-service for all your B2B needs.
 
 ## ZITADEL Repositories
 
